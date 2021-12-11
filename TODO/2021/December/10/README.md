@@ -7,9 +7,9 @@
 
 ### ZooTree (Ubuntu Edition)
 
-- [ ] Shop.elm
+- [x] Shop.elm
 
-- [ ] Fairy.elm
+- [x] Fairy.elm
 
 - [ ] Collection.elm
 
@@ -41,15 +41,15 @@
 
 - [ ] Expand_Tree.elm
 
-- [ ] Settings.elm
+- [x] Settings.elm
 
-- [ ] Sound_Settings.elm
+- [x] Sound_Settings.elm
 
 - [ ] Adventures.elm
 
 - [ ] Counters.elm
 
-- [ ] VAR.elm
+- [x] VAR.elm
 
 - [ ] Poppys_Exchange.elm
 
@@ -65,7 +65,7 @@
 
 - [ ] Headers.elm
 
-- [ ] Fruit.elm
+- [x] Fruit.elm
 
 - [ ] Achievements.elm
 
@@ -79,7 +79,7 @@
 
 - [ ] Buttons.elm (include up and down buttons)
 
-- [ ] Tutorial.elm
+- [x] Tutorial.elm
 
 - [ ] New_Tree.elm
 
@@ -89,7 +89,7 @@
 
 - [ ] Update_Control.elm
 
-- [ ] Exit.elm
+- [x] Exit.elm
 
 - [ ] Tree_Numbering.elm
 
@@ -105,7 +105,7 @@
 
 - [ ] Notifications.elm
 
-- [ ] Notification_Settings.elm
+- [x] Notification_Settings.elm
 
 - [ ] Social.elm
 
@@ -113,11 +113,11 @@
 
 - [ ] Account_Control.elm
 
-- [ ] Support.elm
+- [x] Support.elm
 
-- [ ] Critter_Options.elm (Check for missing critters)
+- [x] Critter_Options.elm (Check for missing critters)
 
-- [ ] Dialogue.elm
+- [x] Dialogue.elm
 
 - [ ] Crash_Recovery.elm
 
@@ -129,21 +129,21 @@
 
 - [ ] Critter_Mood.elm
 
-- [ ] Debug_Mode.elm
+- [x] Debug_Mode.elm
 
 - [ ] Sound_Effects.elm
 
-- [ ] ProTraApp.elm
+- [x] ProTraApp.elm
 
-- [ ] Layer_Levels.elm (forest floor, shrub, understory, Canopy, Emergent, etc.)
+- [x] Layer_Levels.elm (forest floor, shrub, understory, Canopy, Emergent, etc.)
 
 - [ ] Trading.elm
 
 - [ ] Tradeblock.elm
 
-- [ ] Blossom.elm (fruit blossoming, separate from fruit.elm)
+- [x] Blossom.elm (fruit blossoming, separate from fruit.elm)
 
-- [ ] Elm_Engine.elm
+- [x] Elm_Engine.elm
 
 - [ ] Languages.elm
 
@@ -171,7 +171,7 @@
 
 - [ ] Goals.elm (not to be confused with achievements.elm)
 
-- [ ] Anti-Cheat.elm (these anti-cheat files are optional for offline use, but mandatory for online play)
+- [x] Anti-Cheat.elm (these anti-cheat files are optional for offline use, but mandatory for online play)
 
 - [ ] Time_Anti-Cheat.elm (prevents cheating by changing system time ahead or behind)
 
@@ -179,45 +179,47 @@
 
 - [ ] Poached_Critters_Anti-Cheat.elm (prevents cheating by giving yourself critters you didn't earn)
 
-- [ ] Shaders.glsl
+- [ ] Intro.elm
 
-- [ ] In-Game_Music_1.ogg (Main theme)
+- [x] Shaders.glsl
 
-- [ ] In_Game_Music_2.ogg (Adventures)
+- [x] In-Game_Music_1.ogg (Main theme)
 
-- [ ] In_Game_Music_3.ogg (Adventure canceling)
+- [x] In_Game_Music_2.ogg (Adventures)
 
-- [ ] In_Game_Music_4.ogg (Summoning)
+- [x] In_Game_Music_3.ogg (Adventure canceling)
 
-- [ ] Crumbling_Leaves.ogg
+- [x] In_Game_Music_4.ogg (Summoning)
 
-- [ ] Collect.ogg (Not to be confused with Click.ogg)
+- [x] Crumbling_Leaves.ogg
 
-- [ ] LevelUp.ogg
+- [x] Collect.ogg (Not to be confused with Click.ogg)
 
-- [ ] RunningCritters.ogg
+- [x] LevelUp.ogg
 
-- [ ] Click.ogg
+- [x] RunningCritters.ogg
 
-- [ ] EnemyKing.ogg
+- [x] Click.ogg
 
-- [ ] Bomb.ogg
+- [x] EnemyKing.ogg
 
-- [ ] ChestOpening.ogg
+- [x] Bomb.ogg
 
-- [ ] ElmToken.ogg
+- [x] ChestOpening.ogg
 
-- [ ] Seeds.ogg
+- [x] ElmToken.ogg
 
-- [ ] RollingDice.ogg
+- [x] Seeds.ogg
+
+- [x] RollingDice.ogg
 
 - [ ] ZooTree_Font.ttf
 
-- [ ] Debian_Package_Install_ZooTree.deb
+- [x] Debian_Package_Install_ZooTree.deb
 
-- [ ] Debian_Package_Quit_ZooTree.deb
+- [x] Debian_Package_Quit_ZooTree.deb
 
-- [ ] ZooTree_UbuntuEd_Manual.man
+- [x] ZooTree_UbuntuEd_Manual.man
 
 ***
 
@@ -225,8 +227,8 @@
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2021, Friday, December 10th at 2:44 pm`
+**File version:** `2 (2021, Friday, December 10th at 6:35 pm`
 
-**Line count (including blank lines and compiler line)**: `233`
+**Line count (including blank lines and compiler line)**: `235`
 
 ***
