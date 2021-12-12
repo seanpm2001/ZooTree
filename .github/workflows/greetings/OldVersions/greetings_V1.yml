@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you for taking the time to contribute! This seems to be your first time contributing to this project. Any contribution is welcome, big or small (even if it is just fixing a typo) someone should (hopefully) be with you shortly.'
+        pr-message: 'Message that will be displayed on users first pull request'
