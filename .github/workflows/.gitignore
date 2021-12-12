@@ -1,0 +1,5 @@
+# Ignore snapshot files
+/.github/workflows/setup-elm_V1.yml
+/.github/workflows/setup-elm_V2.yml
+/.github/workflows/Elm/OldVersions/Elm_V1.yml
+/.github/workflows/gitignore/OldVersions/.gitignore_V1
