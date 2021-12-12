@@ -1,2 +1,2 @@
-- name: Setup Elm environment
-  uses: JorelAli/setup-elm@v3
+name: Setup Elm environment
+uses: JorelAli/setup-elm@v3
